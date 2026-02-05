@@ -3,7 +3,6 @@ using namespace std;
 class Student
 {
     public:
-    
     int marks[5];
     void setMarks()
     {
