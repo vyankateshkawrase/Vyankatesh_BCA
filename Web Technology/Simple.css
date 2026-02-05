@@ -1,0 +1,31 @@
+.table{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border: 2px solid pink;
+    font-size: large;
+}
+.CV{
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    /* display: flex; */
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 15px;
+    text-align: center;
+    justify-content: center;
+}
+.heading
+{
+    background-color: rgb(9, 168, 221);
+}
+.data{
+    background-color: #b44141;
+}
